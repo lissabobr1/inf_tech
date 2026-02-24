@@ -1,4 +1,4 @@
-#git add .
-#git commit -m 'descriotion of changes"
-#git push origin develop 
-#в гитхабе просто нажми пулл реквест и смерджи ветки
+git add .
+git commit -m 'descriotion of changes"
+git push origin develop 
+в гитхабе просто нажми пулл реквест и смерджи ветки
